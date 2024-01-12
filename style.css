@@ -1,0 +1,30 @@
+body{
+    margin: 0;
+}
+.header{
+    background-color: blueviolet;
+    width: 100%;
+    
+    
+
+}
+.headerContent{
+    display: flex;
+    flex-wrap: wrap;
+    width: 71.44%;
+    margin-left: 14.18%;
+    margin-right: 14.38%;
+}
+.ezihirelogo{
+   
+}
+
+ul {
+    list-style-type: none;
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+.headerNavbar{
+    margin-right: 0%;
+}
